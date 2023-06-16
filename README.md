@@ -8,7 +8,7 @@
 
 <h3>Languages & Tools:</h3>  
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=cpp,postgresql,js,html,css,vscode&theme=dark" />
   </a>
 </p>
