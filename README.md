@@ -9,7 +9,7 @@
 <h3>Languages & Tools:</h3>  
 <p align="center">
   <a href="https://github.com/Erfangholiz">
-    <img src="https://skillicons.dev/icons?i=cpp,postgresql,js,html,css,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cpp,postgresql,js,html,css,vscode,mysql,python&theme=dark" />
   </a>
 </p>
  
