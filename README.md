@@ -2,7 +2,6 @@
   <img height="450" src="https://i.pinimg.com/originals/4c/23/98/4c2398e6be397bb08b5cb70b2192d730.gif"  />
 </div>
 
-###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/erfan-gholizadeh-781146268/" target="_blank">
@@ -19,23 +18,18 @@
   </a>
 </div>
 
-###
 
 <h1 align="center">Hello there !</h1>
 
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
 
 <h4 align="left">My name is Erfan Gholizadeh, I'm a CE student from the Babol Noshirvani University of Technology (BNUT)<br><br>- 📚 I'm currently learning how to customize my Arch Linux setup.<br>- ⚡ In my free time I write reviews on various movies, TV shows or manga.</h4>
 
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -49,8 +43,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Erfangholiz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
