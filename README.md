@@ -1,28 +1,56 @@
-## Hello there!
+<div align="center">
+  <img height="450" src="https://i.pinimg.com/originals/4c/23/98/4c2398e6be397bb08b5cb70b2192d730.gif"  />
+</div>
 
-<h3>My name is Erfan Gholizadeh, I'm a 20 year old CE student at the Babol Noshirvani University of Technology in my second year of college.</h3>
+###
 
-- 🌱 I’m currently learning Python through Exercism.
-- 👨‍🎓 I'm currently reading The Pragmatic Programmer.
-- 🚀 I aim to one day become an expert in the field of Artificial Intelligence.
+<div align="center">
+  <a href="https://www.linkedin.com/in/erfan-gholizadeh-781146268/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0072B1&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="instagram.com/erfangholiz/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  </a>
+  <a href="https://twitter.com/erfangholizade2" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="twitter logo"  />
+  </a>
+  <a href="https://t.me/Erfangholiz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="telegram logo"  />
+  </a>
+</div>
 
-<h3>Languages & Tools:</h3>  
-<p align="left" dir="auto"> 
-  <a href="https://www.postgresql.org/" rel="nofollow"> 
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" alt="PostgreSQL" width="50" height="50" style="max-width: 100%;">
-  </a>
-  <a href="https://www.mysql.com/" rel="nofollow"> 
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png" alt="MySQL" width="50" height="50" style="max-width: 100%;">
-  </a>
-  <a href="https://code.visualstudio.com/" rel="nofollow"> 
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" alt="VS Code" width="50" height="50" style="max-width: 100%;">
-  </a>
-  <a href="https://www.python.org/" rel="nofollow"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Python" width="50" height="50" style="max-width: 100%;">
-  </a>
-  <a href="https://www.javascript.com/" rel="nofollow"> 
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="JavaScript" width="50" height="50" style="max-width: 100%;">
-  </a>
-</p>
+###
 
- 
+<h1 align="center">Hello there !</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<h4 align="left">My name is Erfan Gholizadeh, I'm a CE student from the Babol Noshirvani University of Technology (BNUT)<br><br>- 📚 I'm currently learning how to customize my Arch Linux setup.<br>- ⚡ In my free time I write reviews on various movies, TV shows or manga.</h4>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
