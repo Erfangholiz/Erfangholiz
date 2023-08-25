@@ -19,14 +19,16 @@
 </div>
 
 
-<h1 align="center">Hello there !</h1>
+<h1 align="center">Hello there!</h1>
 
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 
-<h4 align="left">My name is Erfan Gholizadeh, I'm a CE student from the Babol Noshirvani University of Technology (BNUT)<br><br>- 📚 I'm currently learning how to customize my Arch Linux setup.<br>- ⚡ In my free time I write reviews on various movies, TV shows or manga.</h4>
+<h4 align="left">My name is Erfan Gholizadeh, I'm a 20 year old CE student from the Babol Noshirvani University of Technology (BNUT) currently done with my second year of college.<br><br>- 📚 I'm currently learning how to customize my Arch Linux setup.<br>- ⚡ In my free time I write reviews on various movies, TV shows or manga.</h4>
 
+<h3 align="left">📝 Important lessons I've learned so far</h3>
+<h4 align="left">- The most attractive programming language is the one you're NOT currently using. <br>- You will never "master" a programming language.</h4>
 
 <h3 align="left">🛠 Language and tools</h3>
 
